@@ -1,0 +1,16 @@
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\bin\Debug\netcoreapp3.1\Task_1.5.exe
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\bin\Debug\netcoreapp3.1\Task_1.5.deps.json
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\bin\Debug\netcoreapp3.1\Task_1.5.runtimeconfig.json
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\bin\Debug\netcoreapp3.1\Task_1.5.runtimeconfig.dev.json
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\bin\Debug\netcoreapp3.1\Task_1.5.dll
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\bin\Debug\netcoreapp3.1\Task_1.5.pdb
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\obj\Debug\netcoreapp3.1\Task_1.5.csprojAssemblyReference.cache
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\obj\Debug\netcoreapp3.1\Task_1.5.AssemblyInfoInputs.cache
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\obj\Debug\netcoreapp3.1\Task_1.5.AssemblyInfo.cs
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\obj\Debug\netcoreapp3.1\Task_1.5.csproj.CoreCompileInputs.cache
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\obj\Debug\netcoreapp3.1\Task_1.5.csproj.CopyComplete
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\obj\Debug\netcoreapp3.1\Task_1.5.dll
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\obj\Debug\netcoreapp3.1\Task_1.5.pdb
+C:\Users\Emily\source\repos\BettingPlatformEmulator\Task_1.5\obj\Debug\netcoreapp3.1\Task_1.5.genruntimeconfig.cache
